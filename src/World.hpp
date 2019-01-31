@@ -1,7 +1,6 @@
 // ======================================================================
 // FILE:        World.hpp
 // ======================================================================
-//
 
 #ifndef MINE_SWEEPER_CPP_SHELL_BOARD_HPP
 #define MINE_SWEEPER_CPP_SHELL_BOARD_HPP

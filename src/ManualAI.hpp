@@ -4,7 +4,6 @@
 // NOTES:       - The 'Get Input' part of the code will ignore all info
 //                after the first letter, as well as, all whitespace
 //                before the first letter.
-//
 //              - The 'Print Command Menu' part of the code states that
 //                'L' will return the LEAVE action.
 // ======================================================================
