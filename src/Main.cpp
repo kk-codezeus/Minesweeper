@@ -1,8 +1,6 @@
 // ======================================================================
 // FILE:        Main.cpp
 //
-// AUTHOR:      Jian Li
-//
 // DESCRIPTION: This file is the entry point for the program. The main
 //              function serves a couple purposes: (1) It is the
 //              interface with the command line. (2) It reads the files,
@@ -38,8 +36,6 @@
 //                              be written. This is optional.
 //
 //              - If -m and -r are turned on, -m will be turned off.
-//
-//              - Don't make changes to this file.
 // ======================================================================
 
 #include <iostream>

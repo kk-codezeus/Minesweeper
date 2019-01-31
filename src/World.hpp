@@ -1,12 +1,5 @@
 // ======================================================================
 // FILE:        World.hpp
-//
-// AUTHOR:      Jian Li
-//
-// DESCRIPTION: This file contains the world class, which is responsible
-//              for everything game related.
-//
-// NOTES:       - Don't make changes to this file.
 // ======================================================================
 //
 

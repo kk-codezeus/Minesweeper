@@ -1,13 +1,5 @@
 // ======================================================================
 // FILE:        RandomAI.hpp
-//
-// AUTHOR:      Jian Li
-//
-// DESCRIPTION: This file contains the random agent class, which
-//              implements the agent interface. The RandomAI will return
-//              a random move at every turn of the game.
-//
-// NOTES:       - Don't make changes to this file.
 // ======================================================================
 
 #ifndef MINE_SWEEPER_CPP_SHELL_RANDOMAI_HPP
